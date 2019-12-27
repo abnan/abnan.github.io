@@ -2,11 +2,11 @@ title: Abhishek Nan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am currently pursuing my Master in Science (MSc.) degree at the University of Alberta. I specialize in Machine Learning, especially in the area of Computer Vision. I am currently looking for full-time opportunities.
-
-Before my graduate studies, I worked for Microsoft as a Software Engineer in the Cloud and AI group for 3 years. I have a Bachelor of Technology in Computer Science from Manipal Institute of Technology, Manipal.
-  <br><br>
+  <br>
+  Before my graduate studies, I worked for Microsoft as a Software Engineer in the Cloud and AI group for 3 years. I have a Bachelor of Technology in Computer Science.
+  <br>
   I am interested in roles which allow me to apply my skills as a machine learning specialist, espcially in computer vision but not exclusively.
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/abhisheknan/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
